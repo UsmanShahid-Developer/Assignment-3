@@ -1,0 +1,17 @@
+.tabl{
+    display: flex;
+    justify-content: space-between;
+}
+.p{
+    padding-top:280px;
+}
+.tray{
+    padding-left: 350px;
+}
+.lk{
+    display: flex;
+    justify-content: space-around;
+}
+.kl{
+    padding-left: 900px;
+}
